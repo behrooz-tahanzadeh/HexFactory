@@ -1,6 +1,6 @@
 #HexFactory
 > [Miguel Aflalo](https://www.linkedin.com/in/miguel-aflalo-358360)<br/>
-> Kyriaki Goti
+> Kyriaki Goti<br/>
 > [Behrooz Tahanzadeh](http://b-tz.com)<br/>
 > jan 2016
 
